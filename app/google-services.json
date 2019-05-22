@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "684815189672",
+    "firebase_url": "https://medli3.firebaseio.com",
+    "project_id": "medli3",
+    "storage_bucket": "medli3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684815189672:android:819f35c7c3033954",
+        "android_client_info": {
+          "package_name": "com.example.medliv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684815189672-d5enaias0es76mqmeak65din3jfki6td.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.medliv2",
+            "certificate_hash": "ab30117d485f7a5fadb3ab353e1acd2102eba279"
+          }
+        },
+        {
+          "client_id": "684815189672-j5jfv8tvmanv5uh1pdn2ss7h676rl3vk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXev8HxFTig3IgNEvnhj_ZzJ18XAFl0Kk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684815189672-j5jfv8tvmanv5uh1pdn2ss7h676rl3vk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

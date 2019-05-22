@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Home</string>
+    <string name="facebook_app_id">482393685633740</string>
+    <string name="fb_login_protocol_scheme">fb482393685633740</string>
+    <string name="email">Email</string>
+    <string name="contraseñalog">Contraseña</string>
+    <string name="logbuton">Iniciar Sesion</string>
+    <string name="regnombre">Nombre</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="noacount">Registrarse</string>
+
+</resources>
